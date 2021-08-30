@@ -209,7 +209,7 @@ a:focus,
   width: 100%;
   padding: 0;
   background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  background-color: #ffffff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -220,7 +220,7 @@ a:focus,
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: rgb(0, 13, 54);
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
@@ -232,7 +232,7 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
